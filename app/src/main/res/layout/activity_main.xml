@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="#AAAAAA"
+    android:background="#652507"
     tools:contex=".MainActivity">
 
     <TextView
@@ -16,6 +16,7 @@
         android:background="#444444"
         android:gravity="center"
         android:paddingVertical="15dp"
+        android:fontFamily="casual"
         android:text="Macam-macam Nama Bahasa Pemerograman"
         android:textSize="15dp"
         android:textStyle="bold" />
