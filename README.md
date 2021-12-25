@@ -1,4 +1,9 @@
 # MyAPI
-Contoh penggunaan API dengan menggunakan library Volley pada Adroid Studio
+tugas 4
 
-![Hewan_Pedia](GifAPI1.gif)
+
+
+
+
+https://user-images.githubusercontent.com/95690464/147384984-9e2221d7-ecf3-4a77-8805-331efd291409.mp4
+
